@@ -49,7 +49,7 @@ Growing up in Eldoret shaped my understanding of what inequality looks like up c
 
 ## Thinking
 
-My frameworks are published at [kaguura.substack.com](https://kaguura.substack.com). Core influences: Naval Ravikant, Marcus Aurelius, Diogenes, Kanye West — people who thought differently enough to be called crazy, then went and did it anyway.
+My frameworks are published at [kaguura.substack.com](https://kaguura.substack.com). Core influences: Jesus Christ, Naval Ravikant, Marcus Aurelius, Diogenes, Kanye West — people who thought differently enough to be called crazy, then went and did it anyway.
 
 ---
 

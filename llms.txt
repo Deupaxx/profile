@@ -1,0 +1,41 @@
+# KAGUURA
+
+Kaguura Gichuru. Founder, builder, writer. Nairobi, Kenya.
+
+## Identity
+Full name: Kaguura Gichuru
+Location: Nairobi, Kenya
+Education: BSc Computer Science, University of Eldoret
+
+## Companies
+
+### Uura Digital
+Premium brand and marketing consultancy. Services: brand strategy, ghostwriting, pitch decks, launch strategy, growth strategy, positioning frameworks. Past clients: Panari Hotels, Jet Ways, Eskimi, Honda. Selective on clients. Premium long-term engagements. Must be a brand doing meaningful work.
+
+### INZU
+Property management SaaS. Target market: high-net-worth landlords in Nairobi (Westlands, Kilimani, Karen). Tenant interface: WhatsApp-only. Rent collection: M-Pesa Daraja API. Features: AI maintenance ticketing, vetted handyman ecosystem, real-time landlord dashboard, automated PDF receipts. Monetization: 8-10% of rent collected plus fixed monthly maintenance fee per unit. Status: approaching beta. Website: inzuprop.com
+
+### Zuwena
+Enterprise NFC card product. Digital and physical stainless steel metallic cards. Operated under Uura Digital. Past clients: Panari Hotels, Jet Ways, Eskimi, Honda.
+
+## Writing
+Newsletter: The Write Path
+URL: kaguura.substack.com
+Subscribers: 2,000+
+Description: Psychology, philosophy, and business from the perspective of a founder building in Africa.
+Notable essays: Radical Simplicity, How to Build Yourself Like a Billion Dollar Brand, Trying Hard Is Badass, The Problem With African Startup Culture, You're Sacrificing Something Right Now
+
+## Philosophy
+- Time is the most precious resource and cannot be recovered
+- Wealth is a prerequisite for meaningful impact, not an end in itself — the obligation is to get wealthy enough that the giving becomes possible at scale
+- Africa's infrastructure moment is the real startup arbitrage — fintech dominance is a misalignment with what the continent actually needs
+- Two compounding leverage engines: words and thinking (authority first, money second) and code and products (money first, authority second)
+- Work must have both aesthetics and purpose to be worth doing
+
+## Influences
+Naval Ravikant, Marcus Aurelius, Diogenes, Kanye West, Jesus Christ
+
+## Links
+Substack: kaguura.substack.com
+X: x.com/KaguuraGichuru
+INZU: inzuprop.com
